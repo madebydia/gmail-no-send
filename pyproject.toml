@@ -5,7 +5,7 @@ description = "Drafts-only Gmail client (CLI + library) with no send functionali
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
-authors = [{name = "Mei Park", email = "hey@meimakes.com"}]
+authors = [{name = "Diana Park", email = "diana@mama.dev"}]
 dependencies = [
   "google-api-python-client",
   "google-auth-httplib2",
